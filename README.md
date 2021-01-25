@@ -1,1 +1,1 @@
-### Backend for the shipwrecks explorer application
+### HTTP backend for the shipwrecks explorer application
