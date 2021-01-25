@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+
+*.gz
+
+.DS_Store
+
+api/node_modules
+
+app/frontend/node_modules
+app/src/auth
+
+dive.log
